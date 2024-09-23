@@ -1,10 +1,10 @@
-# PS Format Overwrite
+# PS Format Overwrite (UNSAFE VERSION)
 
 Browser extension that overwrites the format of the currently viewed team on Pokemon Showdown's teambuilder. This is most useful for old metagames that retain teambuilder support but aren't present in the given list of formats. Skips the part of teambuilding where you have to scroll down to view the legal Pokemon for your tier. You can duplicate the team afterwards - there's no need to use this extension for every new team.
 
 The method used is provided by the Showdown client, so even when the formatting of stored teams changes, this extension should remain perfectly functional.
 
-There's a safety measure in place to prevent you from corrupting the teambuilder. Still, if you're going to mess around, backup your teams first!
+**There's no safety measure in this version to prevent you from corrupting the teambuilder. Backup your teams!**
 
 ## Usage
 

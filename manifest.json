@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "PS Format Overwrite",
+    "name": "PS Format Overwrite (UNSAFE VERSION)",
     "description": "Overwrites the format of the currently viewed team on Pokemon Showdown's teambuilder.",
     "version": "1.0",
     "icons": {

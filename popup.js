@@ -11,10 +11,6 @@ document.addEventListener("DOMContentLoaded", () => {
     and still communicating with it (albeit limited) in modern browsers. */
 
     formatButton.addEventListener("click", () => {
-        if(/[\]\|\/]/.test(formatInput.value)) {
-            showMessage("These characters corrupt the teambuilder ] | /");
-            return;
-        }
         browser.tabs.query({
             active: true,
             currentWindow: true
