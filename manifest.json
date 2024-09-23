@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "PS Format Overwrite",
+    "description": "Overwrites the format of the currently viewed team on Pokemon Showdown's teambuilder.",
+    "version": "1.0",
+    "icons": {
+        "16": "icon.png",
+        "32": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    },
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "minimum_chrome_version": "121",
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "ps_format_overwrite.demirab1@smogon",
+            "strict_min_version": "121.0"
+        }
+    }
+}
