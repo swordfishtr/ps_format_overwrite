@@ -17,7 +17,7 @@
     "minimum_chrome_version": "121",
     "browser_specific_settings": {
         "gecko": {
-            "id": "ps_format_overwrite.demirab1@smogon",
+            "id": "ps_format_overwrite_unsafe.demirab1@smogon",
             "strict_min_version": "121.0"
         }
     }
